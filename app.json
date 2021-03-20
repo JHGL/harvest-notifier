@@ -47,6 +47,9 @@
     "scheduler:standard",
     "rollbar:free"
   ],
+ 
+  "stack": "heroku-20",
+ 
   "buildpacks": [
     {
       "url": "heroku/ruby"
